@@ -9,7 +9,7 @@ ollama serve &
 
 ollama pull gemma3:1b
 ```
-Every time you run the app, make sure to run the `ollama serve` command to start the Ollama server. You will only need to do `ollama pull gemma3:1b` command once
+Every time you run the app, make sure to run the `ollama serve &` command to start the Ollama server. You will only need to do `ollama pull gemma3:1b` command once
 
 After you have Ollama installed, you can run the following command to install the required Python packages:
 
